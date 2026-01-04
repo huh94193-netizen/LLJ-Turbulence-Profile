@@ -9,8 +9,8 @@ import warnings
 
 # ================= 用户配置区域 =================
 # 1. 原始测风数据文件路径 (你想验证哪个场站，就填哪个文件)
-TARGET_FILE = r'/home/huxun/02_LLJ/exported_data/双鸭山集贤-1443#-20240506-20251222-filter-Exported.txt'
-
+#TARGET_FILE = r'/home/huxun/02_LLJ/exported_data/双鸭山集贤-1443#-20240506-20251222-filter-Exported.txt'
+TARGET_FILE = r'/home/huxun/02_LLJ/exported_data/孝感应城-1467#-20240531-20251222-filter-Exported.txt'
 # 2. 【新增】参数汇总表 Excel 路径 (代码会自动去这里查参数)
 PARAMS_FILE = r'/home/huxun/02_LLJ/result/all_stations_params_final/All_Stations_Parameters_Final.xlsx'
 
