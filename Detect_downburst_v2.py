@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+有问题，弃用
 Downburst Detector V4 (Final Fix based on test_read.py)
 修复：严格复刻 test_read.py 的读取逻辑，解决编码和分隔符报错
 """
